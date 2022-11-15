@@ -1,0 +1,32 @@
+_repo: The-wiser-folly_69310
+_version: 0.0.1
+creator:
+  author:
+    agent_name: LM (Leslie Moore)
+    aliases:
+    - Baker, Ida Constance
+    - M., L. (Leslie Moore)
+    - Moore, Leslie
+    birthdate: 1888
+    deathdate: 1978
+    gutenberg_agent_id: '31881'
+    url: http://www.gutenberg.org/2009/agents/31881
+description: ''
+gutenberg_issued: '2022-11-07'
+identifiers:
+  gutenberg: '69310'
+language: en
+pgterms:marc904: https://archive.org/download/wiserfolly00moorgoog
+pgterms:marc905: 20200624154252moore
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Scans were provided by yhe New York Public Library's Digital Collections)
+publication_note: 'United States: G. P. Putnam''s Sons,1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The wiser folly
+url: http://www.gutenberg.org/ebooks/69310
